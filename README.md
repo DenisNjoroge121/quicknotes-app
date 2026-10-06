@@ -24,7 +24,7 @@ QuickNotes is a simple note-taking web application that allows users to create, 
 1. Clone the repository:
 
     ```bash
-   git clone https://github.com/your-username/quicknotes-app.git
+   git clone https://github.com/DenisNjoroge121/quicknotes-app.git
     ```
 
 2. Open the project folder:
