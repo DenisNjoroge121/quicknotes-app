@@ -90,6 +90,15 @@ button:hover {
     background-color: #0f4f65;
 }
 
+#clear-all-btn {
+    margin-bottom: 1rem;
+    background-color: #b00020;
+}
+
+#clear-all-btn:hover {
+    background-color: #7d0017;
+}
+
 /* Search */
 #search-input {
     width: 100%;
